@@ -5,7 +5,7 @@ Estos mapas presentan tasas espaciales empíricas bayesianas sobre la prevalenci
 
 Los mapas incluyen estimaciones de la tasa de positividad, la mortalidad por caso, tanto para los pacientes con pruebas positivas al COVID-19 como para la totalidad de los pacientes bajo estudio, así como el orígen de las pruebas que provienen de la red de vigilancia epidemiológica del sistema sentinela (USMER).
 
-![Positividad](https://github.com/adiazcayeros/municipiosesperanza/Positividad.jpg)
+![Positividad](/Positividad.jpg)
 
 La positividad es muy alta en los municipios del sureste, incluyendo toda la península de Yucatán, Tabasco y Chiapas. Tambien se aprecia que si bien no se sabe mucho sobre lo que está sucediendo en Oaxaca, hay un corredor de alta positividad en municipios que van desde Guerrero (en el sur), pasando por la Ciudad de México, hacia la Huasteca (en el norte). Existe, en contraste, una franja en el centro, desde el Bajío hasta el norte del país, con relativamente menos prevalencia de pruebas positivas. Finalmente, en el noreoeste se vuelve a presentar un alto grado de positividad. Vale la pena recordar que las pruebas tendrán resultados más positivos si hay relativamente más personas infectadas, o si se están realizando relativamente pocas pruebas. 
 
