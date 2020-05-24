@@ -9,9 +9,17 @@ Los mapas incluyen estimaciones de la tasa de positividad, la mortalidad por cas
 
 La positividad es muy alta en los municipios del sureste, incluyendo toda la península de Yucatán, Tabasco y Chiapas. Tambien se aprecia que si bien no se sabe mucho sobre lo que está sucediendo en Oaxaca, hay un corredor de alta positividad en municipios que van desde Guerrero (en el sur), pasando por la Ciudad de México, hacia la Huasteca (en el norte). Existe, en contraste, una franja en el centro, desde el Bajío hasta el norte del país, con relativamente menos prevalencia de pruebas positivas. Finalmente, en el noreoeste se vuelve a presentar un alto grado de positividad. Vale la pena recordar que las pruebas tendrán resultados más positivos si hay relativamente más personas infectadas, o si se están realizando relativamente pocas pruebas. 
 
+![Fatalidad por Caso](/Fatalidad.jpg)
+
 La tasa de fatalidad por caso (ya sea la general, o específica a COVID-19) se concentra en lugares específicos sobre todo en el sur y el oriente y en algunos estados del norte. Municipios en algunos estados relativamente pobres muestran que han logrado mantener vivos a los pacientes infectados, pero hay que recordar que muchos de ellos tienen pocos casos. 
 
-El último mapa tiene que ver con el sistema centinela de vigilancia epidemiológica. Los casos que llegan a los hospitales y clínicas del país están siendo estudiados porque los pacientes se acercan al sistema de salud a buscar atención al tener indicios o sospecha de estar enfermos. En cambio, en los 475 establecimientos USMER se realiza una muestra sistemática (no aleatoria) de cada décimo paciente, independientemente de si presenta enfermedad grave o los protocolos muestren indicios que justifiquen la prueba. Es lo más parecido a una muestra en el sentido estadístico. Los pacientes USMER no se comportan de manera distinta a los del resto de los establecimientos de salud, pero el mapa sugiere que hay fuertes diferencias regionales en la prevalencia de muestras que provienen del sistema de vigilancia epidemiológica. Fortalecer esa vigilancia sería crucial para saber si los municipios que reanuden actividad económica muestren indicios de brotes nuevos, antes de que se salgan de control. 
+![Fatalidad por Caso de COVID-19](/CFRcovid.jpg)
+
+El siguiente mapa tiene que ver con el sistema centinela de vigilancia epidemiológica. Los casos que llegan a los hospitales y clínicas del país están siendo estudiados porque los pacientes se acercan al sistema de salud a buscar atención al tener indicios o sospecha de estar enfermos. En cambio, en los 475 establecimientos USMER se realiza una muestra sistemática (no aleatoria) de cada décimo paciente, independientemente de si presenta enfermedad grave o los protocolos muestren indicios que justifiquen la prueba. Es lo más parecido a una muestra en el sentido estadístico. Los pacientes USMER no se comportan de manera distinta a los del resto de los establecimientos de salud, pero el mapa sugiere que hay fuertes diferencias regionales en la prevalencia de muestras que provienen del sistema de vigilancia epidemiológica. Fortalecer esa vigilancia sería crucial para saber si los municipios que reanuden actividad económica muestren indicios de brotes nuevos, antes de que se salgan de control. 
+
+![Proporcion pacientes USMER](/usmer.jpg)
+
+![Proporcion Hospitalizados](/hospital.jpg)
 
 El repositorio incluye archivos:
 
